@@ -1,4 +1,4 @@
-# Sample ERC721 Project
+# Sample ERC20 Project
 
 This project demonstrates a sample ERC20 smart contract. It comes with tests for that contract and a script that deploys that contract.
 
