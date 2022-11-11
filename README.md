@@ -1,6 +1,7 @@
 # Sample ERC20 Project
 
 This project demonstrates a sample ERC20 smart contract. It comes with tests for that contract and a script that deploys that contract.
+In this smart contract 10 percent of transfer amount will be sent to the contract  owner for every transfer.
 
 ### Compile Project  
 ```shell
